@@ -15,17 +15,4 @@ I am a software engineering student at FCSE interested in AI/ML, data science an
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🎀 Find me on:
-<a href="https://www.linkedin.com/in/dragana-usovic-801452225/" target="_blank">
-    <img alt="Linked In" src="https://img.shields.io/badge/Linked%20In-black?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://discordapp.com/users/._.dacy" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Discord-%23dfabe0?style=for-the-badge&logo=discord&logoColor=black">
-</a>
-<a href="https://www.instagram.com/usovic.dragana/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram">
-</a>
-
-
-
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usovic.dragana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dragana-usovic-801452225) 
