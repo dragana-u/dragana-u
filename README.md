@@ -13,4 +13,4 @@ I am a software engineering student at FCSE interested in AI/ML, data science an
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🎀 Find me on:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usovic.dragana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dragana-usovic-801452225) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usovic.dragana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dragana-usovic-801452225) [![CV](https://img.shields.io/badge/CV-%23FF5733.svg?logo=GoogleDrive&logoColor=white)](https://drive.google.com/file/d/1F3WzKKWJNFM73_r4HhJk3V0V4svuROVM/view?usp=sharing)
